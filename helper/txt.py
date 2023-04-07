@@ -66,7 +66,7 @@ Example:- /set_caption 📕 File Name: {filename}
 """
 
 #⚠️ don't remove our credits 🙏😢😢
-    DEV_TXT = """
+    DEV_TXT = ""
 <b><u>Special Thanks & Developers</b></u> 
 
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>

@@ -24,7 +24,7 @@
 
 ◉ watch tutorial for render deploy <a href="https://youtu.be/i6OX3xzOCGY"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a>                     
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/VennaShivay/Loki-renamer)
 
 ## Deploy To Railway
 
@@ -32,7 +32,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=[https://github.com/VennaShivay/Loki-renamer)"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 
@@ -68,7 +68,7 @@ users - admin only
 broadcast - admin only
 ```
 
-## ❣️Thanks to
+## ❣️Special Thanks to 👉
 
 <a href="https://t.me/lntechnical">
    <p> lntechnical TG</p>
@@ -77,7 +77,7 @@ broadcast - admin only
    <p> lntechnical YT </p>
   </a>
 
-## 🤩 INSPIRATION
+## 🤩 INSPIRATION by 👌
 
 <a href="https://youtube.com/c/MoTech_YT">
    <p>❣️ MoTech 🔥</p>

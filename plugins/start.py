@@ -28,7 +28,7 @@ from pyrogram.errors import FloodWait
 import humanize
 import random
 from helper.txt import mr
-from helper.database import db
+from helper.database import find 
 from config import START_PIC, FLOOD, ADMIN 
 
 
